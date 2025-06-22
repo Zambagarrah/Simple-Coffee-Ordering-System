@@ -1,4 +1,4 @@
-##Coffee Shop Ordering System ☕️🛒
+<h1>Coffee Shop Ordering System ☕️🛒</h1>
 A simple, interactive command-line coffee shop ordering system written in Python. This project demonstrates basic object-oriented programming principles, user input handling, and list manipulation. Users can browse a menu, add coffees to their order, view their current order, and proceed to checkout.
 
 📋 Table of Contents
